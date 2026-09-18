@@ -1,0 +1,6 @@
+{
+  "name": "Asteroids",
+  "description": "A classic vector-style Asteroids arcade game built with HTML5 Canvas and Web Audio API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
